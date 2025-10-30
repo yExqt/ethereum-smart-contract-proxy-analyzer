@@ -9,6 +9,12 @@ A python tool to check whether an ethereum address contains a smart contract and
 - Python 3.10 or higher  
 - [`web3.py`](https://web3py.readthedocs.io/en/stable/)
 
+
+## usage
+
+python epoint.py --rpc https://mainnet.infura.io/v3/YOUR_API_KEY --address 0x1234...
+
+
 Install dependencies:
 
 ```bash
